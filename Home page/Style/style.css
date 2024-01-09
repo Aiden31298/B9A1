@@ -1,0 +1,172 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 75%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../resources/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+}
+
+.banner-text1 {
+    color: #fff;
+
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.banner-text2 {
+    color: #fff;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    position: absolute;
+}
+
+
+
+.off {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.holiday-deal {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.catagory {
+    color: #070211;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.pic {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+}
+
+
+.pic2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+background-image: url("../resources/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+}
+
+.pic3 {
+    display:flex;
+    width: 319.83px;
+    height: 464.662px;
+    background-image: url("../resources/Group\ 70.png");
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.text1 {
+    color: #FFF;
+
+    font-family: Merriweather;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+
+}
+
+.text2 {
+    color: rgba(255, 255, 255, 0.80);
+
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+
+}
+
+.text3 {
+    color: #FFF;
+
+
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+
+}
+.container3{
+    width: 1600px;
+height: 609px;
+flex-shrink: 0;
+background-color: #070211;
+
+}
+
+  .top-left {
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+  }
+  .footer-icon{
+    text-align: center;
+    display: flex;
+    width: 64px;
+height: 64px;
+flex-shrink: 0;
+  }
+  
+ 
